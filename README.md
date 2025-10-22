@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio del curso de Programación Multimedia y Dispositivos Móviles!
 
-Este proyecto documenta mi progreso a lo largo del curso, utilizando **C#** y **.NET MAUI** para crear aplicaciones multiplataforma.
+Este proyecto documenta nuestro progreso a lo largo del curso, utilizando **C#** y **.NET MAUI** para crear aplicaciones multiplataforma.
 
 ## 🚀 Resultados de Aprendizaje (RA)
 
@@ -30,4 +30,4 @@ Aquí se encuentran los proyectos y ejercicios correspondientes a cada Resultado
 - 📂 **Proyectos:** (Próximamente)
 
 ---
-Creado con ❤️ por Juan Stiven.
+Creado con ❤️ por Juan Stiven y Carlos.
