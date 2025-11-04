@@ -8,26 +8,20 @@ Este proyecto documenta nuestro progreso a lo largo del curso, utilizando **C#**
 
 Aquí se encuentran los proyectos y ejercicios correspondientes a cada Resultado de Aprendizaje.
 
-### 🎯 RA1: Desarrollo de interfaces de usuario
-- 📝 **Descripción:** Diseño y creación de interfaces de usuario interactivas y adaptables para dispositivos móviles.
-- 📂 **Proyectos:**
-  - `(Por agregar)`
+### 🎯 RA1: Aplica tecnologías de desarrollo para dispositivos móviles evaluando sus características y capacidades.
+- 📝 **Descripción:** Una aplicacion de terminal que se basa en un mini sistema de ventas.
 
-### 🎯 RA2: Navegación y gestión de datos
+### 🎯 RA2
 - 📝 **Descripción:** (Próximamente)
-- 📂 **Proyectos:** (Próximamente)
 
-### 🎯 RA3: Consumo de servicios y APIs
+### 🎯 RA3
 - 📝 **Descripción:** (Próximamente)
-- 📂 **Proyectos:** (Próximamente)
 
-### 🎯 RA4: Multimedia y sensores
+### 🎯 RA4
 - 📝 **Descripción:** (Próximamente)
-- 📂 **Proyectos:** (Próximamente)
 
-### 🎯 RA5: Publicación de aplicaciones
+### 🎯 RA5
 - 📝 **Descripción:** (Próximamente)
-- 📂 **Proyectos:** (Próximamente)
 
 ---
-Creado con ❤️ por Juan Stiven y Carlos.
+Creado con ❤️ por Juan Stiven, Carlos y Marcos.
