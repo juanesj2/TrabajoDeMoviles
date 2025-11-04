@@ -19,3 +19,4 @@ La aplicación de consola es el primer tema de evaluación y tiene como objetivo
 *   **Entorno de Desarrollo:** .NET
 
 ## Estructura del Proyecto
+Esta app es un mini sistema de ventas donde el usuario sera la persona encargada de vender productos y registrarlo
