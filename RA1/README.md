@@ -15,7 +15,7 @@ La aplicación de consola es el primer tema de evaluación y tiene como objetivo
 
 ## Requisitos
 
-*   **Lenguaje de Programación:** [Especificar el lenguaje de programación, ej: C#, Java, Python, etc.]
-*   **Entorno de Desarrollo:** [Especificar IDE o compilador, ej: .NET SDK, JDK, Python Interpreter]
+*   **Lenguaje de Programación:** C#
+*   **Entorno de Desarrollo:** .NET
 
 ## Estructura del Proyecto
