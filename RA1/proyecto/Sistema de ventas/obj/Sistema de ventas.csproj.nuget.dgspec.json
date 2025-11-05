@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj": {}
+    "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj": {
+    "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj",
+        "projectUniqueName": "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj",
         "projectName": "Sistema de ventas",
-        "projectPath": "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj",
-        "packagesPath": "C:\\Users\\juans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\obj\\",
+        "projectPath": "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\Sistema de ventas.csproj",
+        "packagesPath": "C:\\Users\\futbo\\.nuget\\packages\\",
+        "outputPath": "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\juans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\futbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

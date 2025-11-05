@@ -1,0 +1,15 @@
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\bin\Debug\net8.0\Sistema de ventas.exe
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\bin\Debug\net8.0\Sistema de ventas.deps.json
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\bin\Debug\net8.0\Sistema de ventas.runtimeconfig.json
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\bin\Debug\net8.0\Sistema de ventas.dll
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\bin\Debug\net8.0\Sistema de ventas.pdb
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.AssemblyInfoInputs.cache
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.AssemblyInfo.cs
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.csproj.CoreCompileInputs.cache
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.sourcelink.json
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.dll
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\refint\Sistema de ventas.dll
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.pdb
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\Sistema de ventas.genruntimeconfig.cache
+D:\VSProyect\Tarea1\TrabajoDeMoviles\RA1\proyecto\Sistema de ventas\obj\Debug\net8.0\ref\Sistema de ventas.dll

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\",
+  "WorkspaceRootPath": "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E37EA45-1104-4ABE-9E24-19FD4DA33F91}|Sistema de ventas.csproj|c:\\users\\juans\\desktop\\trabajo de moviles\\ra1\\proyecto\\sistema de ventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E37EA45-1104-4ABE-9E24-19FD4DA33F91}|Sistema de ventas.csproj|d:\\vsproyect\\tarea1\\trabajodemoviles\\ra1\\proyecto\\sistema de ventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E37EA45-1104-4ABE-9E24-19FD4DA33F91}|Sistema de ventas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\Program.cs",
+              "DocumentMoniker": "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juans\\Desktop\\Trabajo de moviles\\RA1\\proyecto\\Sistema de ventas\\Program.cs",
+              "ToolTip": "D:\\VSProyect\\Tarea1\\TrabajoDeMoviles\\RA1\\proyecto\\Sistema de ventas\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T09:57:56.026Z",
               "EditorCaption": ""
