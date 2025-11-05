@@ -43,12 +43,8 @@ namespace Sistema_de_ventas
                 Total = 0;
                 return;
             }
-            else
-            {
-                Total = Cantidad * (decimal)ProductoVendido.getPrecio();
-            }
 
-            
+            Total = Cantidad * (decimal)ProductoVendido.getPrecio();
         }
 
         // Metodo para mostrar la venta
