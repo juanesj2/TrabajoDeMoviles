@@ -4,18 +4,12 @@
 // nuestro namespace
 using Sistema_de_ventas;
 
-// ******************* Juan ************************* //
 public class Program
 {
     static void Main()
     {
         // Producto de prueba
-        Producto productoDemo = new Producto
-        {
-            Codigo = 101,
-            Nombre = "Coca Cola",
-            Precio = 1.50m
-        };
+        Producto productoDemo = new("Coca Cola", 1.50, 100);
 
         // Crear la venta con el producto asignado
         var ventaEjemplo = new Venta
@@ -27,7 +21,16 @@ public class Program
 
         ventaEjemplo.CalcularTotal();
         ventaEjemplo.MostrarVenta();
+
+        Console.WriteLine("\n=== PRUEBA 5: Comprobar disponibilidad ===");
+        Console.WriteLine(productoDemo.disponibilidad()
+            ? "El producto tiene stock disponible ✅"
+            : "El producto NO tiene stock ❌"
+        );
+
+        Console.WriteLine("\n=== PRUEBA 6: actualizarStock ===");
+        productoDemo.actualizarStock();
+        productoDemo.mostrarInfo();
+
     }
 }
-
-// ***************** FIN Juan *********************** //

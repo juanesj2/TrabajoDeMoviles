@@ -23,13 +23,13 @@ namespace Sistema_de_ventas
         // Precio total de la venta
         public void CalcularTotal()
         {
-            Total = Cantidad * ProductoVendido.Precio;
+            Total = Cantidad * (decimal)ProductoVendido.getPrecio();
         }
 
         // Metodo para mostrar la venta
         public void MostrarVenta()
         {
-            Console.WriteLine($"ID: {Id} | Producto: {ProductoVendido.Nombre} | Cantidad: {Cantidad} | Total: {Total}");
+            Console.WriteLine($"ID: {Id} | Producto: {ProductoVendido?.getNombre() ?? "N/A"} | Cantidad: {Cantidad} | Total: {Total}");
         }
     }
 }
