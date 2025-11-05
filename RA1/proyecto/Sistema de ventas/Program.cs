@@ -15,7 +15,7 @@ public class Program
         var ventaEjemplo = new Venta
         {
             Id = 1,
-            Cantidad = 5,
+            Cantidad = 1000,
             ProductoVendido = productoDemo
         };
 
