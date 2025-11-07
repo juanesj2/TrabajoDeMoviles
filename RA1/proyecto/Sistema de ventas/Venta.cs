@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TrabajoMoviles;
 
-namespace Sistema_de_ventas
+namespace TrabajoMoviles
 {
     public class Venta
     {
@@ -23,6 +24,7 @@ namespace Sistema_de_ventas
         // Precio total de la venta
         public void CalcularTotal()
         {
+            // Comprobar que hay producto asignado
             if (ProductoVendido == null)
             {
                 Console.WriteLine("Error: No hay producto asignado a la venta.");
@@ -30,6 +32,7 @@ namespace Sistema_de_ventas
                 return;
             }
 
+            // Comprobar que la cantidad es positiva
             if (Cantidad <= 0)
             {
                 Console.WriteLine("Error: La cantidad vendida debe ser mayor que cero.");
@@ -37,6 +40,7 @@ namespace Sistema_de_ventas
                 return;
             }
 
+            // Comprobar que hay suficiente stock
             if (ProductoVendido.getCantidad() < Cantidad)
             {
                 Console.WriteLine("Error: No hay suficiente stock para completar la venta.");
@@ -44,6 +48,7 @@ namespace Sistema_de_ventas
                 return;
             }
 
+            // Calcular el total
             Total = Cantidad * (decimal)ProductoVendido.getPrecio();
         }
 

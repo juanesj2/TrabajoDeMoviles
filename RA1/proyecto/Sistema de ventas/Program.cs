@@ -2,35 +2,56 @@
 // Es un mini sistema de gestion de ventas
 
 // nuestro namespace
-using Sistema_de_ventas;
-
-public class Program
+using TrabajoMoviles;
+namespace TrabajoMoviles
 {
-    static void Main()
-    {
-        // Producto de prueba
-        Producto productoDemo = new("Coca Cola", 1.50, 100);
+	class Program
+	{
+		static void Main() {
+			SistemaVentas sistema = new SistemaVentas();
+            int opcion = -1;
 
-        // Crear la venta con el producto asignado
-        var ventaEjemplo = new Venta
-        {
-            Id = 1,
-            Cantidad = 1000,
-            ProductoVendido = productoDemo
-        };
+            while (opcion != 0)
+            {
+                Console.Clear();
+                Console.WriteLine("==== MENÚ SISTEMA DE VENTAS ====");
+                Console.WriteLine("1. Agregar producto");
+                Console.WriteLine("2. Ver inventario");
+                Console.WriteLine("3. Registrar venta");
+                Console.WriteLine("4. Actualizar Stock");
+                Console.WriteLine("5. Ver historial");
+                Console.WriteLine("0. Salir");
+                Console.Write("Elige una opción: ");
 
-        ventaEjemplo.CalcularTotal();
-        ventaEjemplo.MostrarVenta();
+                // Leer la opción del usuario
+                // convierte la entrada a entero que es lo que usamos en el switch
+                // Si la conversión falla, se asigna -1 para indicar una opción inválida
+                if (int.TryParse(Console.ReadLine(), out opcion) == false)
+                {
+                    opcion = -1; // Opción inválida
+                }
 
-        Console.WriteLine("\n=== PRUEBA 5: Comprobar disponibilidad ===");
-        Console.WriteLine(productoDemo.disponibilidad()
-            ? "El producto tiene stock disponible ✅"
-            : "El producto NO tiene stock ❌"
-        );
 
-        Console.WriteLine("\n=== PRUEBA 6: actualizarStock ===");
-        productoDemo.actualizarStock();
-        productoDemo.mostrarInfo();
+                switch (opcion)
+                {
+                    case 1: sistema.AgregarProducto(); break;
+                    case 2: sistema.VerInventario(); break;
+                    case 3: sistema.RegistrarVenta(); break;
+                    case 4: sistema.UsaactualizarStock(); break;
+                    case 5: sistema.MostrarVentas(); break;
 
-    }
+                    case 0:
+                        Console.WriteLine("Saliendo...");
+                        break;
+
+                    default:
+                        Console.WriteLine("Opción incorrecta.");
+                        break;
+                }
+
+                Console.WriteLine("\nPresiona ENTER para continuar...");
+                Console.ReadLine();
+            }
+        }
+	}
 }
